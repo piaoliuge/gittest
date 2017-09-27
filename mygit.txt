@@ -1,2 +1,2 @@
 你好,我第一次使用Git!
-update update
+update

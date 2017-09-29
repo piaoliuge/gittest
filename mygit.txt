@@ -1,2 +1,2 @@
 你好,我第一次使用Git!
-update
+我在github上更改文件了
